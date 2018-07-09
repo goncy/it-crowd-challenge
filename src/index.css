@@ -1,0 +1,21 @@
+html, body, #root {
+  font-family: Akkurat Std, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+  Oxygen, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0;
+  line-height: 2rem;
+  background: #A0D5FF;
+  min-height: 100vh;
+  text-align: center;
+  font-size: 1rem;
+  overflow: auto;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+img {
+  object-fit: contain;
+}
